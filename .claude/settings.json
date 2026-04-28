@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__Claude_in_Chrome__read_network_requests",
+      "mcp__Claude_in_Chrome__read_page",
+      "mcp__Claude_in_Chrome__find",
+      "mcp__Claude_in_Chrome__tabs_context_mcp",
+      "mcp__strava__get_recent_activities",
+      "mcp__strava__get_activity_detail",
+      "mcp__hailey__list_one_to_ones",
+      "mcp__hailey__get_one_to_one",
+      "mcp__hailey__search_employees"
+    ]
+  }
+}
